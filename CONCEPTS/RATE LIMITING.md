@@ -17,3 +17,28 @@ Essentially, a rate-limited application will say, "Hey, slow down," to unique us
 A rate limiting solution may use an IP address as a basis for determining which devices are making too many requests and should be temporarily blocked.
 
 ---
+
+
+**Throttling** means **intentionally limiting the speed, rate, or amount of something** to prevent overload, manage resources, or control performance.
+
+Here are the most common contexts:
+
+### **1. Internet / Network**
+
+Throttling is when an ISP slows down your internet speed on purpose—often due to high usage or congestion.
+
+### **2. Computers / CPUs**
+
+CPU throttling reduces a processor’s speed to prevent overheating or save battery.
+
+### **3. APIs / Services**
+
+Rate throttling limits how many requests you can make in a certain period.
+
+### **4. Mechanical / Engines**
+
+Throttle refers to controlling fuel or power going into an engine—so throttling adjusts power output.
+
+---
+
+If you want, I can give examples or compare it with related terms like *bandwidth*, *latency*, or *capping*.
