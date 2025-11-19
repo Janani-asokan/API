@@ -1,3 +1,4 @@
+
 Perfect — here is the **simplest possible explanation** of **rate limits** and **throttling**.
 No code. No headers. No technical words.
 Just plain, everyday understanding.
